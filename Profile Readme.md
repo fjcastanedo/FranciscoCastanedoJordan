@@ -10,7 +10,7 @@ Currently based in **Bristol, UK**, I am open to **remote, hybrid, or on-site ro
 
 ## 🛠️ Sample Projects
 
-- [C-Sample-Projects](https://github.com/fjcastanedo/C-Sample-Projects)
+- [C-Sample-Projects] (https://github.com/fjcastanedo/C-Sample-Projects)
 - [Python-Sample-Projects] (https://github.com/fjcastanedo/Python-Sample-Projects)
 - 
 ## 📫 Connect with Me
